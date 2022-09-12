@@ -1,4 +1,4 @@
-## GraphQL / MongoDB
+## GraphQL / Cypress / MongoDB
 
 ## Website
 
